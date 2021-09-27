@@ -1,0 +1,23 @@
+*{
+    background-color:black ;
+    border-radius: 8px;
+    color: blanchedalmond;
+    font-size: 25px;
+}
+
+.cont{
+    display: inline-flex;
+    border: 2px solid white;
+    flex-direction: column;
+}
+.name{
+    color: white;
+background-color: yellowgreen;
+text-align: center;
+padding: 100px;
+margin: 25px;
+}
+
+p{
+    display: inline-block;
+}
